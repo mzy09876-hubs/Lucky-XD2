@@ -1,8 +1,8 @@
 /*
-Project Name : LUCKY XMD
-Creator      : LUCKY 218 ( Mr Lucky 218)
-Repo         : https//github.com/Tomilucky218/Lucky-XD2
-Support      : wa.me/263714757857
+Project Name : 6D-7X
+Creator      : LUCKY 218 ( Mr Hassan 218)
+Repo         : https//github.com/Tomilky218/Lucky-XD2
+Support      : wa.me/212660133012
 */
 
 
