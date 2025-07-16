@@ -1,13 +1,13 @@
 
 {
-  "name": "LUCKY-XD",
+  "name": "6D-7X",
   "version": "0.0.9",
-  "description": "A WhatsApp Bot Created By Lucky Tech Hub",
+  "description": "A WhatsApp Bot Created By 6D-7X Tech Hub",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name LUCKY-XD",
-    "stop": "pm2 stop LUCKY-XD",
-    "restart": "pm2 restart LUCKY-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 6D-7X",
+    "stop": "pm2 stop 6D-7X",
+    "restart": "pm2 restart 6D-7X"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
